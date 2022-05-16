@@ -105,7 +105,150 @@ Una fuente de voltaje es un dispositivo que tiene dos terminales encargadas de g
 
 Las fuentes de voltaje pueden ser de cd (corriente directa) o de ca (corriente alterna). La corriente alterna es el flujo de carga eléctrica que se alterna en dos sentidos, es decir en movimiento oscilatorio, mientras que la corriente directa es un flujo eléctrico que se mantiene en un solo sentido y su valor no cambia. Y se representan de la siguiente forma:
 
+![image](https://user-images.githubusercontent.com/105565683/168689994-9739c630-3760-4138-abc1-faa41a4e05b9.png)
 
+Las fuentes de voltaje mas comunes de utilizar son las de corriente directa, entre las que tenemos: la batería, celdas solares y el generador.
+
+FUENTE DE CORRIENTE
+
+Una fuente de corriente ideal puede proporcionar una corriente constante para cualquier carga. Al igual que en el caso de una fuente de voltaje, la fuente de corriente ideal no existe, pero puede ser aproximada en la práctica.
+
+Una aplicación común de una fuente de corriente constante se encuentra en los cargadores de batería de corriente constante, que se representa de la siguiente forma:
+
+![image](https://user-images.githubusercontent.com/105565683/168690055-9b511ab2-35a6-40e8-820b-005f70ed205f.png)
+
+RESISTORES
+
+Un resistor es un componente diseñado específicamente para que tenga cierta cantidad de resistencia, la aplicación principal de los resistores es limitar la corriente en un circuito, dividir el voltaje, y, en ciertos casos, generar calor. Los resistores fijos son los mas comunes porque están disponibles con una gran selección de valores de resistencia establecidos durante su fabricación y que no son fáciles de cambiar. Dentro de estos los resistores mas comunes y utilizados en los circuitos eléctricos, son los de carbono y se ven así:
+
+![image](https://user-images.githubusercontent.com/105565683/168690232-1fbca8a7-457d-483a-b258-abf3350d8d35.png) ![image](https://user-images.githubusercontent.com/105565683/168690253-b39d30c4-cc13-4bf4-8e92-fa752d6e2c9e.png)
+
+CODIGOS DE COLOR PARA RESISTORES 
+
+Los resistores fijos con tolerancias de valor del 5 o el 10% se codifican mediante cuatro bandas
+de color para indicar el valor de resistencia y la tolerancia. De la siguiente manera:
+
+![image](https://user-images.githubusercontent.com/105565683/168690340-e2a1e21a-b7dd-4f0b-8e06-e1acf3b7f79d.png)
+
+El código de colores, para resistores de 4 bandas, es el siguiente:
+
+![image](https://user-images.githubusercontent.com/105565683/168690389-f2b59d74-b46b-44b4-8679-35db7607c2e7.png)
+
+Para los resistores de cinco bandas, simplemente se aplica una banda después del segundo digito, que se aplica como un tercer digito y para su lectura se utiliza.
+
+![image](https://user-images.githubusercontent.com/105565683/168690443-ead1637b-0437-4590-acb6-f7c1f26de9c2.png)
+
+RESISTORES VARIABLES
+
+Los resistores variables están diseñados de modo que sus valores de resistencia sean fáciles de
+cambiar mediante un ajuste manual o automático. Dos usos básicos de los resistores variables son dividir el voltaje y controlar la corriente. El resistor variable utilizado para dividir voltaje se llama potenciómetro. El resistor variable empleado para controlar corriente se denomina reóstato. Se representan de la siguiente forma:
+
+![image](https://user-images.githubusercontent.com/105565683/168690522-47fdcddb-7304-4d9d-af2a-107740e89837.png)
+
+Potenciómetros típicos y vistas de construcción:
+
+![image](https://user-images.githubusercontent.com/105565683/168690563-e54a02f5-aad0-47ab-bf72-e5cca5012343.png)
+
+RESISTORES AUTOMATICAMENTE VARIABLES 
+
+- Un termistor es un tipo de resistor variable sensible a la temperatura.
+- La resistencia de una celda fotoconductora cambia con un cambio de la intensidad luminosa.
+
+![image](https://user-images.githubusercontent.com/105565683/168690618-6b025f2e-c240-4827-8bc1-7e38ac8f2562.png)
+
+CIRCUITO ELÉCTRICO
+
+Un circuito eléctrico es un sistema formado por un conjunto de elementos eléctricos interconectados. Tiene uno o más caminos cerrados que pueden ser atravesados por una corriente eléctrica.
+
+Un circuito básico se compone de una fuente de voltaje, una carga, y una trayectoria para la corriente que haya entre la fuente y la carga. 
+
+Los tipos es que se dividen los circuitos son dos:
+
+1)	CIRCUITO CERRADO: un circuito en el cual la corriente recorre una trayectoria completa. 
+2)	CIRCUITO ABIERTO: un circuito en el cual la corriente se interrumpe.
+
+![image](https://user-images.githubusercontent.com/105565683/168690757-c6a46d45-c08d-40d9-ab87-a8a4ee32bdc1.png)
+ 
+ESQUEMA DE UN CIRCUITO ELECTRICO
+
+Cuando se quiere representar un circuito eléctrico, se hace mediante un esquema. Un esquema es un dibujo simplificado en el que los distintos elementos del circuito se representan mediante símbolos normalizados. Los símbolos normalizados son dibujos simples ya consensuados y regulados mediante normas específicas. No necesariamente se parecen al elemento que representan. El esquema que se realice empleando símbolos normalizados puede ser interpretado por personas de cualquier país.
+
+En la imagen a continuación de muestran un esquema de circuito eléctrico y el circuito eléctrico:
+
+![image](https://user-images.githubusercontent.com/105565683/168690811-8f03db39-1b27-428b-8937-b667895b7bd4.png)
+
+CONTROL DE LA CORRIENTE
+
+INTERRUPTOR: Sirve para controlar la apertura o el cierre de circuitos eléctricos. Se representa de la siguiente manera:
+
+![image](https://user-images.githubusercontent.com/105565683/168690847-da149e2c-142f-45e7-9623-a3b84512407b.png)
+ 
+Los tipos de interruptores y como se representan sol los siguientes:
+
+![image](https://user-images.githubusercontent.com/105565683/168690872-16febac8-30df-4c9b-8902-a3741f3203f9.png)
+
+INTERRUPTOR SPST: De pelo único, es un simple interruptor de encendido y apagado: los dos terminales están conectados entre sí o desconectados entre sí.
+
+![image](https://user-images.githubusercontent.com/105565683/168690893-3962db5a-8ba8-4828-ba1a-e6d0ecb030c2.png) 
+
+INTERRUPTOR DE SEMICONDUCTOR: Los transistores se utilizan ampliamente como interruptores en muchas aplicaciones. El transistor puede ser utilizado como el equivalente de un interruptor de vía y polo únicos. Se puede abrir o cerrar la trayectoria de un circuito controlando el estado del transistor.
+ 
+![image](https://user-images.githubusercontent.com/105565683/168690920-d5b8964e-aba7-42f1-975c-b7a279673617.png)
+
+DISPOSITIVOS DE PROTECCIÓN
+
+FUSIBLE: Este elemento está ubicado en un punto estratégico de la instalación eléctrica para que se funda si la intensidad de la corriente supera un cierto valor.
+
+![image](https://user-images.githubusercontent.com/105565683/168690965-0ff17671-7909-430a-9f16-0f05be510abd.png)
+
+CORTACIRCUITOS: Es un dispositivo que se utiliza en instalaciones eléctricas, para interrumpir el paso de corriente eléctrica en el caso de que la misma excede un valor prefijado y sobrecarga el circuito.
+
+![image](https://user-images.githubusercontent.com/105565683/168691021-1f6c9212-e314-4b40-928f-637805b97535.png)
+ 
+ALAMBRES
+
+En aplicaciones eléctricas, los alambres son la forma más común de material conductor utilizado.
+Estos alambres varían en diámetro y son ordenados con arreglo a números de calibre estándar, llamados tamaños AWG (de American Wire Gauge). Conforme el número de calibre se incrementa, el diámetro del alambre disminuye.
+
+![image](https://user-images.githubusercontent.com/105565683/168691039-d618c3b1-58e2-4bfd-a5c4-70862096c5cc.png)
+ 
+Los tamaños AWG con su área de sección transversal correspondiente y la resistencia en ohm por cada 1000 pies (ft) a 20°C. se muestran a continuación:
+
+![image](https://user-images.githubusercontent.com/105565683/168691055-61b4c442-f81c-4024-bc0d-20d13fd444d3.png)
+
+Para encontrar el área de sección transversal, se usa el diámetro (d), y se encuentra así:
+
+![image](https://user-images.githubusercontent.com/105565683/168691081-99bd045d-13bb-460a-b787-ecaba8ad9211.png)
+
+Para encontrar la resistencia de un alambre se usa la resistividad (p) y la longitud (l) y el área de la sección transversal (A):
+
+![image](https://user-images.githubusercontent.com/105565683/168691102-529a3f93-34ef-4eb7-8e0f-6458cbc2abdc.png)
+
+TIERRA
+
+En circuitos eléctricos, la tierra es el punto de referencia, su objetivo es limitar la tensión que presentan las masas metálicas respecto a tierra, asegurar actuación de las protecciones y eliminar o disminuir el riesgo que supone una avería en el material eléctrico utilizado. y se representa así:
+
+![image](https://user-images.githubusercontent.com/105565683/168691141-eaf6abd9-0b03-4108-87ae-ceb62f5fee8f.png)
+
+![image](https://user-images.githubusercontent.com/105565683/168691201-efa6df83-d8c0-460a-ae09-ab143f5b5494.png)
+
+MEDICIONES DE CIRCUITOS BÁSICAS
+
+SIMBOLOS DE MEDIDORES
+
+El símbolo de medidor digital se utiliza cuando en un circuito se tienen que indicar valores específicos.
+
+![image](https://user-images.githubusercontent.com/105565683/168691213-e50091e6-1d4e-4238-843d-a50b15e8537e.png)
+
+MEDICIÓN DE CORRIENTE
+
+![image](https://user-images.githubusercontent.com/105565683/168691244-31cc7d68-fbf7-4026-a878-a94a740a0d8f.png)
+
+MEDICIÓN DE VOLTAJE
+
+![image](https://user-images.githubusercontent.com/105565683/168691380-8d2050b4-be19-4c41-838d-23165882eb8f.png)
+
+MEDICIÓN DE RESISTENCIA
 
 
 
