@@ -28,7 +28,55 @@ Señalar la forma en que la investigación actual enriquece, amplía y profundiz
 Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar mentefactos, cuadro comparativos, esquemas o mapas conceptuales
 
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas. La solución deb estar en esta sección, no como un archivo anexo.
+Resolución de ejercicios pares de los capítulos 1 y 2 del libro Principios de Circuitos Eléctricos - Floyd.
+
+CAPITULO 1 CANTIDADES Y UNIDADES:
+
+2. Exprese cada número fraccionario en notación científica:
+
+![image](https://user-images.githubusercontent.com/105565683/168511775-0d426279-3e1b-40f9-afd2-ec951d3a9633.png)
+
+4. Exprese cada uno de los números siguientes en notación científica:
+
+![image](https://user-images.githubusercontent.com/105565683/168511841-4734851f-46d5-4acf-bd88-bb8a8639927c.png)
+
+6. Exprese cada uno de los números siguientes como un número decimal regular:
+
+![image](https://user-images.githubusercontent.com/105565683/168511912-1e7b8bd1-6b99-4274-b97a-a3afd5b96952.png)
+
+8. Exprese cada número de los siguientes como un número decimal regular:
+
+![image](https://user-images.githubusercontent.com/105565683/168511947-629267ca-2c17-4f3f-8014-04c18c2fda1f.png)
+
+10. Efectúe las siguientes sustracciones:
+
+![image](https://user-images.githubusercontent.com/105565683/168512020-cc4bd418-c103-46db-be73-f41ee86edb87.png)
+
+12. Realice las siguientes divisiones:
+
+![image](https://user-images.githubusercontent.com/105565683/168512053-4f326dcb-993c-4d11-8b59-96e52ebdf5c9.png)
+
+14. Exprese cada número en notación de ingeniería:
+
+![image](https://user-images.githubusercontent.com/105565683/168512101-f5a5fde0-d4af-4042-a5c5-041aa333ae51.png)
+
+16. Exprese cada número en notación de ingeniería:
+
+![image](https://user-images.githubusercontent.com/105565683/168512130-5288f4a0-0751-42b2-8b82-3f67de7ad103.png)
+
+18. Multiplique los números siguientes y exprese cada resultado en notación de ingeniería:
+
+![image](https://user-images.githubusercontent.com/105565683/168512174-ba393907-83ea-4a54-82e6-9307057bf965.png)
+
+20. Exprese cada número del problema 13 en ohms por medio de un prefijo métrico.
+
+![image](https://user-images.githubusercontent.com/105565683/168512199-077db5b1-4b1d-499b-9e43-5b5374e4ff9a.png)
+
+22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:
+
+![image](https://user-images.githubusercontent.com/105565683/168512235-8c955d66-d827-4fe0-9738-2628086fc1f9.png)
+
+
 
 VIDEO
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto. En el video se debe explicar 4 ejercicios o problemas.
