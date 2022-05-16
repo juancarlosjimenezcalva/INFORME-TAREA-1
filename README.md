@@ -39,33 +39,3 @@ Se estable las conclusiones de cada asunto investigado, implicaciones para la te
 BIBLIOGRAFÍA
 Emplear normas APA.
 
-RUBRICA
-
-
-
-About
-Modelo Informe de las tareas
-
-Resources
- Readme
-Stars
- 4 stars
-Watchers
- 1 watching
-Forks
- 25 forks
-Releases
-No releases published
-Packages
-No packages published
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
