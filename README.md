@@ -8,20 +8,12 @@ OBJETIVOS ESPECÍFICOS:
 -	Determinar que es la notación científica y como se utiliza.
 -	Definir que es la notación de ingeniería y como se aplica.
 -	Demostrar cómo se calcula la resistencia, corriente y voltaje.
--	Identificar el significado de los colores en una resistencia.
 -	Comprender como se conforma el esquema de un circuito.
 -	Comprobar como se utiliza el voltímetro, amperímetro y óhmetro
 
-MARCO TEÓRICO (RESUMEN)
-Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
+MARCO TEÓRICO 
 
-Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
 
-Describir la actual relación entre el problema enunciado y el sistema o sistemas teóricos/conceptuales que pueden guiarlo.
-Dejar claramente especificada la relación entre la teoría que guía la investigación y la realidad que se percibe como problema de investigación.
-Conceptualizar el problema en la forma de un modelo, útil para clarificar los conceptos y relaciones conceptuales.
-Señalar la forma en que la investigación actual enriquece, amplía y profundiza el conocimiento teórico, sustantivo y metodológico acumulado en estudios previos.
-Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar mentefactos, cuadro comparativos, esquemas o mapas conceptuales
 
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
