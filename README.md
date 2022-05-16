@@ -5,6 +5,7 @@ OBJETIVOS
 OBJETIVO GENERAL: Comprender los principios de la electricidad como las cantidades y unidades en las que se maneja, es decir, notación científica y notación de ingeniería, así mismo como el manejo del calculo del voltaje, corriente y resistencia, en un circuito, por medio de la investigación, en fuentes confiables, y resolución de ejercicios de los temas antes previstos, para así lograr tener una visión clara de los principios de la electricidad y de el esquema de un circuito.
 
 OBJETIVOS ESPECÍFICOS: 
+
 -	Determinar que es la notación científica y como se utiliza.
 -	Definir que es la notación de ingeniería y como se aplica.
 -	Demostrar cómo se calcula la resistencia, corriente y voltaje.
@@ -66,20 +67,20 @@ La carga se mide en coulomb representada por la letra “C” un coulomb es la c
 
 ![image](https://user-images.githubusercontent.com/105565683/168689574-b0b785d8-59a3-468e-828c-0e0fe7198eef.png)
 
-VOLTAJE
+ VOLTAJE
 
 Para que las cargas eléctricas se separen se necesita que estas posean cierta energía potencial, la diferencia en la energía potencial por carga es la diferencia de potencial o voltaje. La diferencia de potencial eléctrico medido en voltios permite el flujo de las cargas eléctricas por un cable desde una zona de potencial alto a uno bajo. El voltaje se calcula de la siguiente forma:
 
 ![image](https://user-images.githubusercontent.com/105565683/168689578-9d1bdc02-6099-44b3-95fd-7683da846bbf.png)
 
-CORRIENTE 
+ CORRIENTE 
 
 El voltaje proporciona energía a los electrones, lo que les permite moverse por un circuito. Este
 movimiento de electrones es la corriente, la cual produce trabajo en un circuito eléctrico. La corriente eléctrica (también denominada intensidad) es el flujo de carga a través de un conductor por unidad de tiempo. La corriente se calcula de la siguiente forma:
 
 ![image](https://user-images.githubusercontent.com/105565683/168689699-2447928d-fdb2-449f-b791-3ab69a47de5b.png)
 
-RESISTENCIA 
+ RESISTENCIA 
 
 La resistencia eléctrica es la dificultad con la que las cargas eléctricas fluyen a través de un conductor, puesto que, cuando en un material existe corriente, los electrones libres se mueven en éste y de vez en cuando chocan con átomos. Estas colisiones provocan que los electrones pierdan algo de su energía, con lo cual se restringe su movimiento. Entre más colisiones haya, más se restringe el flujo de electrones.
 
@@ -87,13 +88,13 @@ La resistencia únicamente se mide, puesto que, Existe un ohm (1 Ω) de resiste
 
 ![image](https://user-images.githubusercontent.com/105565683/168689742-a46dc007-8896-44ed-a7ba-02475cc99169.png)
 
-CONDUCTANCIA 
+ CONDUCTANCIA 
 
 El recíproco de la resistencia es la conductancia, simbolizada mediante G. La conductancia es una medida de la facilidad con que se establece la corriente. La fórmula es:
 
 ![image](https://user-images.githubusercontent.com/105565683/168689797-9f81be44-c4e1-4076-92fa-cfe3a566ad07.png)
 
-LEY DE OHM
+ LEY DE OHM
 
 Una forma mas sencilla de entender estos conceptos es por medio de la ley de ohm, la cual establece que la corriente que pasa por los conductores es proporcional al voltaje aplicado en ellos. Se representa de la siguiente forma:
 
@@ -123,7 +124,7 @@ Un resistor es un componente diseñado específicamente para que tenga cierta ca
 
 ![image](https://user-images.githubusercontent.com/105565683/168690232-1fbca8a7-457d-483a-b258-abf3350d8d35.png) ![image](https://user-images.githubusercontent.com/105565683/168690253-b39d30c4-cc13-4bf4-8e92-fa752d6e2c9e.png)
 
-CODIGOS DE COLOR PARA RESISTORES 
+ CODIGOS DE COLOR PARA RESISTORES 
 
 Los resistores fijos con tolerancias de valor del 5 o el 10% se codifican mediante cuatro bandas
 de color para indicar el valor de resistencia y la tolerancia. De la siguiente manera:
@@ -138,7 +139,7 @@ Para los resistores de cinco bandas, simplemente se aplica una banda después de
 
 ![image](https://user-images.githubusercontent.com/105565683/168690443-ead1637b-0437-4590-acb6-f7c1f26de9c2.png)
 
-RESISTORES VARIABLES
+ RESISTORES VARIABLES
 
 Los resistores variables están diseñados de modo que sus valores de resistencia sean fáciles de
 cambiar mediante un ajuste manual o automático. Dos usos básicos de los resistores variables son dividir el voltaje y controlar la corriente. El resistor variable utilizado para dividir voltaje se llama potenciómetro. El resistor variable empleado para controlar corriente se denomina reóstato. Se representan de la siguiente forma:
@@ -149,7 +150,7 @@ Potenciómetros típicos y vistas de construcción:
 
 ![image](https://user-images.githubusercontent.com/105565683/168690563-e54a02f5-aad0-47ab-bf72-e5cca5012343.png)
 
-RESISTORES AUTOMATICAMENTE VARIABLES 
+ RESISTORES AUTOMATICAMENTE VARIABLES 
 
 - Un termistor es un tipo de resistor variable sensible a la temperatura.
 - La resistencia de una celda fotoconductora cambia con un cambio de la intensidad luminosa.
@@ -169,7 +170,7 @@ Los tipos es que se dividen los circuitos son dos:
 
 ![image](https://user-images.githubusercontent.com/105565683/168690757-c6a46d45-c08d-40d9-ab87-a8a4ee32bdc1.png)
  
-ESQUEMA DE UN CIRCUITO ELECTRICO
+ ESQUEMA DE UN CIRCUITO ELECTRICO
 
 Cuando se quiere representar un circuito eléctrico, se hace mediante un esquema. Un esquema es un dibujo simplificado en el que los distintos elementos del circuito se representan mediante símbolos normalizados. Los símbolos normalizados son dibujos simples ya consensuados y regulados mediante normas específicas. No necesariamente se parecen al elemento que representan. El esquema que se realice empleando símbolos normalizados puede ser interpretado por personas de cualquier país.
 
@@ -177,7 +178,7 @@ En la imagen a continuación de muestran un esquema de circuito eléctrico y el 
 
 ![image](https://user-images.githubusercontent.com/105565683/168690811-8f03db39-1b27-428b-8937-b667895b7bd4.png)
 
-CONTROL DE LA CORRIENTE
+ CONTROL DE LA CORRIENTE
 
 INTERRUPTOR: Sirve para controlar la apertura o el cierre de circuitos eléctricos. Se representa de la siguiente manera:
 
@@ -195,7 +196,7 @@ INTERRUPTOR DE SEMICONDUCTOR: Los transistores se utilizan ampliamente como inte
  
 ![image](https://user-images.githubusercontent.com/105565683/168690920-d5b8964e-aba7-42f1-975c-b7a279673617.png)
 
-DISPOSITIVOS DE PROTECCIÓN
+ DISPOSITIVOS DE PROTECCIÓN
 
 FUSIBLE: Este elemento está ubicado en un punto estratégico de la instalación eléctrica para que se funda si la intensidad de la corriente supera un cierto valor.
 
@@ -205,7 +206,7 @@ CORTACIRCUITOS: Es un dispositivo que se utiliza en instalaciones eléctricas, p
 
 ![image](https://user-images.githubusercontent.com/105565683/168691021-1f6c9212-e314-4b40-928f-637805b97535.png)
  
-ALAMBRES
+ ALAMBRES
 
 En aplicaciones eléctricas, los alambres son la forma más común de material conductor utilizado.
 Estos alambres varían en diámetro y son ordenados con arreglo a números de calibre estándar, llamados tamaños AWG (de American Wire Gauge). Conforme el número de calibre se incrementa, el diámetro del alambre disminuye.
@@ -224,7 +225,7 @@ Para encontrar la resistencia de un alambre se usa la resistividad (p) y la long
 
 ![image](https://user-images.githubusercontent.com/105565683/168691102-529a3f93-34ef-4eb7-8e0f-6458cbc2abdc.png)
 
-TIERRA
+ TIERRA
 
 En circuitos eléctricos, la tierra es el punto de referencia, su objetivo es limitar la tensión que presentan las masas metálicas respecto a tierra, asegurar actuación de las protecciones y eliminar o disminuir el riesgo que supone una avería en el material eléctrico utilizado. y se representa así:
 
@@ -234,21 +235,21 @@ En circuitos eléctricos, la tierra es el punto de referencia, su objetivo es li
 
 MEDICIONES DE CIRCUITOS BÁSICAS
 
-SIMBOLOS DE MEDIDORES
+ SIMBOLOS DE MEDIDORES
 
 El símbolo de medidor digital se utiliza cuando en un circuito se tienen que indicar valores específicos.
 
 ![image](https://user-images.githubusercontent.com/105565683/168691213-e50091e6-1d4e-4238-843d-a50b15e8537e.png)
 
-MEDICIÓN DE CORRIENTE
+ MEDICIÓN DE CORRIENTE
 
 ![image](https://user-images.githubusercontent.com/105565683/168691244-31cc7d68-fbf7-4026-a878-a94a740a0d8f.png)
 
-MEDICIÓN DE VOLTAJE
+ MEDICIÓN DE VOLTAJE
 
 ![image](https://user-images.githubusercontent.com/105565683/168691619-ab093b82-f8f7-4f8a-b6d9-47c3fc516f69.png)
 
-MEDICIÓN DE RESISTENCIA
+ MEDICIÓN DE RESISTENCIA
 
 ![image](https://user-images.githubusercontent.com/105565683/168691640-2f175bd8-2966-4902-9411-f8f6f15fcdf1.png)
 
@@ -256,7 +257,7 @@ MULTÍMETRO DIGITAL
 
 Un multímetro digital es un instrumento electrónico que combina medidores para efectuar la medición de voltaje, corriente y resistencia. Los multímetros digitales son el tipo de instrumento de medición electrónico más utilizado.
 
-FUNCIONES DEL MULTÍMETRO DIGITAL
+ FUNCIONES DEL MULTÍMETRO DIGITAL
 
 Las funciones básicas encontradas en la mayoría de los multímetros digitales incluyen lo siguiente:
 
@@ -264,7 +265,7 @@ Las funciones básicas encontradas en la mayoría de los multímetros digitales 
 - Voltaje y corriente directos
 - Voltaje y corriente alternos
 
-LECTURA DE UN MULTÍMETRO DIGITAL
+ LECTURA DE UN MULTÍMETRO DIGITAL
 
 PANTALLAS: Las pantallas LCD y LED de un multímetro digital vienen en formato de 7 segmentos. Cada dígito que aparece en pantalla se compone de siete segmentos distintos, cada uno de los diez dígitos decimales se forma por la activación de los segmentos apropiados. Además de los siete segmentos, también aparece un punto decimal.
 
@@ -280,14 +281,14 @@ Es un instrumento especial para laboratorios, de campo especializado, muy útil 
 
 ![image](https://user-images.githubusercontent.com/105565683/168691900-a82d6ff6-1f97-4cea-b41e-f68cdafdb059.png)
 
-LECTURA DE UN MULTÍMETRO ANALÓGICO  
+ LECTURA DE UN MULTÍMETRO ANALÓGICO  
 
 ESACALA DE OHM: Los ohm se leen en la escala superior del medidor. Esta escala no es lineal, es decir, los valores representados por cada división (grande o pequeña) varían conforme se recorre la escala. Para leer el valor real en ohm, multiplique el número señalado en la escala por la manecilla por el factor seleccionado con el interruptor. 
 
 LAS ESCALAS AC-DC Y DC mA: Las escalas segunda, tercera y cuarta de arriba hacia abajo, marca-
 das “AC” y “DC”, se utilizan junto con las funciones DC VOLTS y AC VOLTS. La escala superior ac-dc termina en la marca de 300 y se usa con ajustes de intervalo, tales como 0.3, 3 y 300.
 
-EJEMPLO
+ EJEMPLO
 
 ![image](https://user-images.githubusercontent.com/105565683/168691996-a8e3940f-67a8-407c-9cdc-5fa26eacd0a0.png)
 
@@ -479,14 +480,26 @@ VIDEO
 
 
 
-
-
-VIDEO
-Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto. En el video se debe explicar 4 ejercicios o problemas.
-
 CONCLUSIONES
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+
+
 
 BIBLIOGRAFÍA
-Emplear normas APA.
+
+AcMax de Mexico. (21 de septiembre de 2020). acmax. Obtenido de acmax: 
+https://acmax.mx/que-es-una-fuente-de-corriente
+
+Demaquinasyherramientas.com. (4 de febrero de 2011). demaquinasyherramientas. Obtenido de demaquinasyherramientas:       https://www.demaquinasyherramientas.com/herramientas-de-medicion/multimetro
+
+Gouveia, R. (18 de febrero de 2022). todamateria. Obtenido de todamateria: 
+https://www.todamateria.com/ley-de-ohm/
+
+Osaka Electronics Ltda. (6 de septiembre de 2021). osakaelectronicsltda. Obtenido de osakaelectronicsltda: 
+https://osakaelectronicsltda.com/blog/recomendaciones/que-es-una-fuente-de-voltaje
+
+REAL ACADEMIA ESPAÑOLA. (2001). rae. Obtenido de rae: 
+https://www.rae.es/drae2001/unidad
+
+wordpress. (14 de noviembre de 2013). wordpress. Obtenido de wordpress: 
+https://tatiana180795.wordpress.com/2013/11/14/notacion-cientifica/
 
