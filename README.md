@@ -9,9 +9,103 @@ OBJETIVOS ESPECÍFICOS:
 -	Definir que es la notación de ingeniería y como se aplica.
 -	Demostrar cómo se calcula la resistencia, corriente y voltaje.
 -	Comprender como se conforma el esquema de un circuito.
--	Comprobar como se utiliza el voltímetro, amperímetro y óhmetro
+-	Comprobar como se mide la resistencia, corriente y voltaje en un circuito.
 
 MARCO TEÓRICO 
+
+UNIDADES
+
+Según la RAE, dentro de la matemática, una unidad es “Cantidad que se toma por medida o término de comparación de las demás de su especie.” Dentro del sistema internacional existen 7 unidades fundamentales y 2 unidades complementarias, siendo:
+
+![image](https://user-images.githubusercontent.com/105565683/168688948-c6392c90-c39e-4e26-9bb3-abb7ef6cd95c.png)
+
+![image](https://user-images.githubusercontent.com/105565683/168689082-dbf5855c-e62b-45b3-b7ff-3e8a782b4519.png)
+
+Dentro de electrónica las unidades que se usan son unidades derivadas, las mas comunes de ver son las siguientes:
+
+![image](https://user-images.githubusercontent.com/105565683/168689165-d4ffe223-3748-426a-ae91-64221c5438ee.png)
+
+NOTACION CIENTIFICA
+
+La notación científica es una manera rápida de representar un número utilizando potencias de base diez. Esta notación se utiliza para poder expresar muy fácilmente números muy grandes o muy pequeños. Este método fue inventado por Arquímedes el cual se representa por medio de multiplicar un numero entero o decimal, por la base 10, elevada a una potencia tal que nos del número original:
+
+![image](https://user-images.githubusercontent.com/105565683/168689209-628ec5d9-172f-4c4d-92fc-09acd56a922b.png)
+
+Para realizar operaciones con notación científica, simplemente se utilizan las propiedades de los exponentes, siendo:
+
+![image](https://user-images.githubusercontent.com/105565683/168689260-e6123b8f-fbe5-4dc4-858c-38a4b23000c7.png)
+
+NOTACION DE INGENIERIA 
+
+En electrónica, la notación de ingeniería se emplea para representar valores de voltaje, corriente, potencia, resistencia, capacitancia, inductancia y tiempo, por nombrar algunos. Los prefijos métricos se utilizan junto con la notación de ingeniería como “abreviatura” para ciertas potencias de diez que son múltiplos de tres. Esta se representa de esta forma:
+
+![image](https://user-images.githubusercontent.com/105565683/168689314-ee45e061-477f-4d17-84a9-eb6349e660b2.png)
+
+La diferencia entre la notación científica y la notación de ingeniería, radica en que la notación de ingeniería es especializada para la electrónica, y que al momento de su aplicación se utilizan múltiplos de tres.
+
+![image](https://user-images.githubusercontent.com/105565683/168689421-8af28342-c0d8-43d5-ad18-6f682624b051.png)
+
+UNIDADES MÉTRICAS Y CONVERSIONES
+
+La conversión consiste en pasar de una unidad a otra, esto lo hacemos principalmente por conveniencia al momento de realizar una operación, dentro de la notación de ingeniería o de la notación científica, se debe seguir una regla, toda conversión debe ser equivalente, y al resolverse debe dar al número original.
+
+Para realizar una conversión si aplica dos principios:
+
+1)	Para aumentar el exponente se recorren el número de ceros, equivalente a la cantidad que se desea aumentar, hacia la izquierda, usando la coma.
+2)	Para disminuir el exponente se recorren el número de ceros, equivalente a la cantidad que se desea disminuir, hacia la derecha, usando la coma.
+
+![image](https://user-images.githubusercontent.com/105565683/168689455-57d785b2-714d-46c5-b236-4ca67b71870e.png)
+
+LA CARGA ELÉCTRICA
+
+La carga de un electrón y la de un protón son iguales en magnitud. La carga eléctrica es una propiedad física intrínseca de algunas partículas subatómicas que se manifiesta mediante fuerzas de atracción y repulsión entre ellas a través de campos electromagnéticos, se representa mediante la letra Q. la carga eléctrica se represa de la siguiente forma:
+
+![image](https://user-images.githubusercontent.com/105565683/168689508-f163826e-fa3a-457a-917a-f7a5d18d3ecf.png)
+
+La carga se mide en coulomb representada por la letra “C” un coulomb es la carga total poseída por 6.25 * 10^18. Para calcular la carga eléctrica se aplica la siguiente formula:
+
+![image](https://user-images.githubusercontent.com/105565683/168689574-b0b785d8-59a3-468e-828c-0e0fe7198eef.png)
+
+VOLTAJE
+
+Para que las cargas eléctricas se separen se necesita que estas posean cierta energía potencial, la diferencia en la energía potencial por carga es la diferencia de potencial o voltaje. La diferencia de potencial eléctrico medido en voltios permite el flujo de las cargas eléctricas por un cable desde una zona de potencial alto a uno bajo. El voltaje se calcula de la siguiente forma:
+
+![image](https://user-images.githubusercontent.com/105565683/168689578-9d1bdc02-6099-44b3-95fd-7683da846bbf.png)
+
+CORRIENTE 
+
+El voltaje proporciona energía a los electrones, lo que les permite moverse por un circuito. Este
+movimiento de electrones es la corriente, la cual produce trabajo en un circuito eléctrico. La corriente eléctrica (también denominada intensidad) es el flujo de carga a través de un conductor por unidad de tiempo. La corriente se calcula de la siguiente forma:
+
+![image](https://user-images.githubusercontent.com/105565683/168689699-2447928d-fdb2-449f-b791-3ab69a47de5b.png)
+
+RESISTENCIA 
+
+La resistencia eléctrica es la dificultad con la que las cargas eléctricas fluyen a través de un conductor, puesto que, cuando en un material existe corriente, los electrones libres se mueven en éste y de vez en cuando chocan con átomos. Estas colisiones provocan que los electrones pierdan algo de su energía, con lo cual se restringe su movimiento. Entre más colisiones haya, más se restringe el flujo de electrones.
+
+La resistencia únicamente se mide, puesto que, Existe un ohm (1 Ω) de resistencia si hay un ampere (1 A) de corriente en un material cuando se aplica un volt (1 V) al material. La resistencia se representa de la siguiente manera:
+
+![image](https://user-images.githubusercontent.com/105565683/168689742-a46dc007-8896-44ed-a7ba-02475cc99169.png)
+
+CONDUCTANCIA 
+
+El recíproco de la resistencia es la conductancia, simbolizada mediante G. La conductancia es una medida de la facilidad con que se establece la corriente. La fórmula es:
+
+![image](https://user-images.githubusercontent.com/105565683/168689797-9f81be44-c4e1-4076-92fa-cfe3a566ad07.png)
+
+LEY DE OHM
+
+Una forma mas sencilla de entender estos conceptos es por medio de la ley de ohm, la cual establece que la corriente que pasa por los conductores es proporcional al voltaje aplicado en ellos. Se representa de la siguiente forma:
+
+![image](https://user-images.githubusercontent.com/105565683/168689832-beab8c90-1a0f-4c09-988e-53f17a1652c1.png)
+
+FUENTE DE VOLTAJE 
+
+Una fuente de voltaje es un dispositivo que tiene dos terminales encargadas de generar un voltaje de salida, independientemente de las cargas que reciba. Se trata de un elemento de circuito activo porque puede proporcionar energía. Como tal, forma parte de las denominadas fuentes eléctricas, que también incluyen a las fuentes de corriente.
+
+Las fuentes de voltaje pueden ser de cd (corriente directa) o de ca (corriente alterna). La corriente alterna es el flujo de carga eléctrica que se alterna en dos sentidos, es decir en movimiento oscilatorio, mientras que la corriente directa es un flujo eléctrico que se mantiene en un solo sentido y su valor no cambia. Y se representan de la siguiente forma:
+
+
 
 
 
