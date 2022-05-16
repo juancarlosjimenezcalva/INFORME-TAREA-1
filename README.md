@@ -1,20 +1,16 @@
 # INFORME-TAREA-1
+
 OBJETIVOS
-Los objetivos deben responder claramente la pregunta ¿Qué investigar? El objetivo de la investigación es el enunciado claro y preciso de las metas que se persiguen. En los objetivos de la investigación se detallan las acciones en las que debe emprender el investigador para contestar a las preguntas planteadas en la formulación y sistematización del problema y tiene como propósito el direccionar la investigación.
 
-Los objetivos generales dan origen a objetivos específicos que indica lo que se pretende realizar en cada una de las etapas de la investigación. La suma de los objetivos específicos es igual al objetivo general y por tanto a los resultados esperados de la investigación. Conviene notar que son los objetivos específicos los que se investigan y no el objetivo general, ya que este se logra de los resultados.
+OBJETIVO GENERAL: Comprender los principios de la electricidad como las cantidades y unidades en las que se maneja, es decir, notación científica y notación de ingeniería, así mismo como el manejo del calculo del voltaje, corriente y resistencia, en un circuito, por medio de la investigación, en fuentes confiables, y resolución de ejercicios de los temas antes previstos, para así lograr tener una visión clara de los principios de la electricidad y de el esquema de un circuito.
 
-Los objetivos de investigación deben cumplir ciertas características:
-
-Deben ser concretos, cuantificables, verificables
-Deben estar redactados utilizando verbos en infinitivo
-Deben ser alcanzables por el investigador.
-Tienen que estar ligados con el tiempo.
-Deben presentar directa relación con el tema de investigación y entre sí mismos. Todo trabajo de investigación es evaluado por el logro de los objetivos mediante un proceso sistemático, los cuales deben haber sido previamente señalados y seleccionados al comienzo de la investigación. La sistematización hace posible el planeamiento de estrategias válidas para el logro de objetivos. Por esta razón los objetivos tienen que ser revisados en cada una de las etapas del proceso; el no hacerlo puede ocasionar fallas en la investigación con la misma intensidad en que se presentan fallas en los objetivos.
-
-Al finalizar la investigación, los objetivos han de ser identificables con los resultados; es decir, toda la investigación deberá estar respondiendo a los objetivos propuestos.
-
-Considerar la Taxonomía de Bloom
+OBJETIVOS ESPECÍFICOS: 
+-	Determinar que es la notación científica y como se utiliza.
+-	Definir que es la notación de ingeniería y como se aplica.
+-	Demostrar cómo se calcula la resistencia, corriente y voltaje.
+-	Identificar el significado de los colores en una resistencia.
+-	Comprender como se conforma el esquema de un circuito.
+-	Comprobar como se utiliza el voltímetro, amperímetro y óhmetro
 
 MARCO TEÓRICO (RESUMEN)
 Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
@@ -28,6 +24,7 @@ Señalar la forma en que la investigación actual enriquece, amplía y profundiz
 Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar mentefactos, cuadro comparativos, esquemas o mapas conceptuales
 
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
 Resolución de ejercicios pares de los capítulos 1 y 2 del libro Principios de Circuitos Eléctricos - Floyd.
 
 CAPITULO 1 CANTIDADES Y UNIDADES:
