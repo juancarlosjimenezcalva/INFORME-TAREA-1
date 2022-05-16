@@ -100,63 +100,6 @@ Una forma mas sencilla de entender estos conceptos es por medio de la ley de ohm
 
 ![image](https://user-images.githubusercontent.com/105565683/168689832-beab8c90-1a0f-4c09-988e-53f17a1652c1.png)
 
-FUENTE DE VOLTAJE 
-
-Una fuente de voltaje es un dispositivo que tiene dos terminales encargadas de generar un voltaje de salida, independientemente de las cargas que reciba. Se trata de un elemento de circuito activo porque puede proporcionar energía. Como tal, forma parte de las denominadas fuentes eléctricas, que también incluyen a las fuentes de corriente.
-
-Las fuentes de voltaje pueden ser de cd (corriente directa) o de ca (corriente alterna). La corriente alterna es el flujo de carga eléctrica que se alterna en dos sentidos, es decir en movimiento oscilatorio, mientras que la corriente directa es un flujo eléctrico que se mantiene en un solo sentido y su valor no cambia. Y se representan de la siguiente forma:
-
-![image](https://user-images.githubusercontent.com/105565683/168689994-9739c630-3760-4138-abc1-faa41a4e05b9.png)
-
-Las fuentes de voltaje mas comunes de utilizar son las de corriente directa, entre las que tenemos: la batería, celdas solares y el generador.
-
-FUENTE DE CORRIENTE
-
-Una fuente de corriente ideal puede proporcionar una corriente constante para cualquier carga. Al igual que en el caso de una fuente de voltaje, la fuente de corriente ideal no existe, pero puede ser aproximada en la práctica.
-
-Una aplicación común de una fuente de corriente constante se encuentra en los cargadores de batería de corriente constante, que se representa de la siguiente forma:
-
-![image](https://user-images.githubusercontent.com/105565683/168690055-9b511ab2-35a6-40e8-820b-005f70ed205f.png)
-
-RESISTORES
-
-Un resistor es un componente diseñado específicamente para que tenga cierta cantidad de resistencia, la aplicación principal de los resistores es limitar la corriente en un circuito, dividir el voltaje, y, en ciertos casos, generar calor. Los resistores fijos son los mas comunes porque están disponibles con una gran selección de valores de resistencia establecidos durante su fabricación y que no son fáciles de cambiar. Dentro de estos los resistores mas comunes y utilizados en los circuitos eléctricos, son los de carbono y se ven así:
-
-![image](https://user-images.githubusercontent.com/105565683/168690232-1fbca8a7-457d-483a-b258-abf3350d8d35.png) ![image](https://user-images.githubusercontent.com/105565683/168690253-b39d30c4-cc13-4bf4-8e92-fa752d6e2c9e.png)
-
- CODIGOS DE COLOR PARA RESISTORES 
-
-Los resistores fijos con tolerancias de valor del 5 o el 10% se codifican mediante cuatro bandas
-de color para indicar el valor de resistencia y la tolerancia. De la siguiente manera:
-
-![image](https://user-images.githubusercontent.com/105565683/168690340-e2a1e21a-b7dd-4f0b-8e06-e1acf3b7f79d.png)
-
-El código de colores, para resistores de 4 bandas, es el siguiente:
-
-![image](https://user-images.githubusercontent.com/105565683/168690389-f2b59d74-b46b-44b4-8679-35db7607c2e7.png)
-
-Para los resistores de cinco bandas, simplemente se aplica una banda después del segundo digito, que se aplica como un tercer digito y para su lectura se utiliza.
-
-![image](https://user-images.githubusercontent.com/105565683/168690443-ead1637b-0437-4590-acb6-f7c1f26de9c2.png)
-
- RESISTORES VARIABLES
-
-Los resistores variables están diseñados de modo que sus valores de resistencia sean fáciles de
-cambiar mediante un ajuste manual o automático. Dos usos básicos de los resistores variables son dividir el voltaje y controlar la corriente. El resistor variable utilizado para dividir voltaje se llama potenciómetro. El resistor variable empleado para controlar corriente se denomina reóstato. Se representan de la siguiente forma:
-
-![image](https://user-images.githubusercontent.com/105565683/168690522-47fdcddb-7304-4d9d-af2a-107740e89837.png)
-
-Potenciómetros típicos y vistas de construcción:
-
-![image](https://user-images.githubusercontent.com/105565683/168690563-e54a02f5-aad0-47ab-bf72-e5cca5012343.png)
-
- RESISTORES AUTOMATICAMENTE VARIABLES 
-
-- Un termistor es un tipo de resistor variable sensible a la temperatura.
-- La resistencia de una celda fotoconductora cambia con un cambio de la intensidad luminosa.
-
-![image](https://user-images.githubusercontent.com/105565683/168690618-6b025f2e-c240-4827-8bc1-7e38ac8f2562.png)
-
 CIRCUITO ELÉCTRICO
 
 Un circuito eléctrico es un sistema formado por un conjunto de elementos eléctricos interconectados. Tiene uno o más caminos cerrados que pueden ser atravesados por una corriente eléctrica.
@@ -178,7 +121,66 @@ En la imagen a continuación de muestran un esquema de circuito eléctrico y el 
 
 ![image](https://user-images.githubusercontent.com/105565683/168690811-8f03db39-1b27-428b-8937-b667895b7bd4.png)
 
- CONTROL DE LA CORRIENTE
+COMPONENTES
+
+ FUENTE DE VOLTAJE 
+
+Una fuente de voltaje es un dispositivo que tiene dos terminales encargadas de generar un voltaje de salida, independientemente de las cargas que reciba. Se trata de un elemento de circuito activo porque puede proporcionar energía. Como tal, forma parte de las denominadas fuentes eléctricas, que también incluyen a las fuentes de corriente.
+
+Las fuentes de voltaje pueden ser de cd (corriente directa) o de ca (corriente alterna). La corriente alterna es el flujo de carga eléctrica que se alterna en dos sentidos, es decir en movimiento oscilatorio, mientras que la corriente directa es un flujo eléctrico que se mantiene en un solo sentido y su valor no cambia. Y se representan de la siguiente forma:
+
+![image](https://user-images.githubusercontent.com/105565683/168689994-9739c630-3760-4138-abc1-faa41a4e05b9.png)
+
+Las fuentes de voltaje mas comunes de utilizar son las de corriente directa, entre las que tenemos: la batería, celdas solares y el generador.
+
+ FUENTE DE CORRIENTE
+
+Una fuente de corriente ideal puede proporcionar una corriente constante para cualquier carga. Al igual que en el caso de una fuente de voltaje, la fuente de corriente ideal no existe, pero puede ser aproximada en la práctica.
+
+Una aplicación común de una fuente de corriente constante se encuentra en los cargadores de batería de corriente constante, que se representa de la siguiente forma:
+
+![image](https://user-images.githubusercontent.com/105565683/168690055-9b511ab2-35a6-40e8-820b-005f70ed205f.png)
+
+ RESISTORES
+
+Un resistor es un componente diseñado específicamente para que tenga cierta cantidad de resistencia, la aplicación principal de los resistores es limitar la corriente en un circuito, dividir el voltaje, y, en ciertos casos, generar calor. Los resistores fijos son los mas comunes porque están disponibles con una gran selección de valores de resistencia establecidos durante su fabricación y que no son fáciles de cambiar. Dentro de estos los resistores mas comunes y utilizados en los circuitos eléctricos, son los de carbono y se ven así:
+
+![image](https://user-images.githubusercontent.com/105565683/168690232-1fbca8a7-457d-483a-b258-abf3350d8d35.png) ![image](https://user-images.githubusercontent.com/105565683/168690253-b39d30c4-cc13-4bf4-8e92-fa752d6e2c9e.png)
+
+  CODIGOS DE COLOR PARA RESISTORES 
+
+Los resistores fijos con tolerancias de valor del 5 o el 10% se codifican mediante cuatro bandas
+de color para indicar el valor de resistencia y la tolerancia. De la siguiente manera:
+
+![image](https://user-images.githubusercontent.com/105565683/168690340-e2a1e21a-b7dd-4f0b-8e06-e1acf3b7f79d.png)
+
+El código de colores, para resistores de 4 bandas, es el siguiente:
+
+![image](https://user-images.githubusercontent.com/105565683/168690389-f2b59d74-b46b-44b4-8679-35db7607c2e7.png)
+
+Para los resistores de cinco bandas, simplemente se aplica una banda después del segundo digito, que se aplica como un tercer digito y para su lectura se utiliza.
+
+![image](https://user-images.githubusercontent.com/105565683/168690443-ead1637b-0437-4590-acb6-f7c1f26de9c2.png)
+
+  RESISTORES VARIABLES
+
+Los resistores variables están diseñados de modo que sus valores de resistencia sean fáciles de
+cambiar mediante un ajuste manual o automático. Dos usos básicos de los resistores variables son dividir el voltaje y controlar la corriente. El resistor variable utilizado para dividir voltaje se llama potenciómetro. El resistor variable empleado para controlar corriente se denomina reóstato. Se representan de la siguiente forma:
+
+![image](https://user-images.githubusercontent.com/105565683/168690522-47fdcddb-7304-4d9d-af2a-107740e89837.png)
+
+Potenciómetros típicos y vistas de construcción:
+
+![image](https://user-images.githubusercontent.com/105565683/168690563-e54a02f5-aad0-47ab-bf72-e5cca5012343.png)
+
+  RESISTORES AUTOMATICAMENTE VARIABLES 
+
+- Un termistor es un tipo de resistor variable sensible a la temperatura.
+- La resistencia de una celda fotoconductora cambia con un cambio de la intensidad luminosa.
+
+![image](https://user-images.githubusercontent.com/105565683/168690618-6b025f2e-c240-4827-8bc1-7e38ac8f2562.png)
+
+  CONTROL DE LA CORRIENTE
 
 INTERRUPTOR: Sirve para controlar la apertura o el cierre de circuitos eléctricos. Se representa de la siguiente manera:
 
@@ -196,7 +198,7 @@ INTERRUPTOR DE SEMICONDUCTOR: Los transistores se utilizan ampliamente como inte
  
 ![image](https://user-images.githubusercontent.com/105565683/168690920-d5b8964e-aba7-42f1-975c-b7a279673617.png)
 
- DISPOSITIVOS DE PROTECCIÓN
+  DISPOSITIVOS DE PROTECCIÓN
 
 FUSIBLE: Este elemento está ubicado en un punto estratégico de la instalación eléctrica para que se funda si la intensidad de la corriente supera un cierto valor.
 
@@ -206,7 +208,7 @@ CORTACIRCUITOS: Es un dispositivo que se utiliza en instalaciones eléctricas, p
 
 ![image](https://user-images.githubusercontent.com/105565683/168691021-1f6c9212-e314-4b40-928f-637805b97535.png)
  
- ALAMBRES
+  ALAMBRES
 
 En aplicaciones eléctricas, los alambres son la forma más común de material conductor utilizado.
 Estos alambres varían en diámetro y son ordenados con arreglo a números de calibre estándar, llamados tamaños AWG (de American Wire Gauge). Conforme el número de calibre se incrementa, el diámetro del alambre disminuye.
@@ -225,7 +227,7 @@ Para encontrar la resistencia de un alambre se usa la resistividad (p) y la long
 
 ![image](https://user-images.githubusercontent.com/105565683/168691102-529a3f93-34ef-4eb7-8e0f-6458cbc2abdc.png)
 
- TIERRA
+  TIERRA
 
 En circuitos eléctricos, la tierra es el punto de referencia, su objetivo es limitar la tensión que presentan las masas metálicas respecto a tierra, asegurar actuación de las protecciones y eliminar o disminuir el riesgo que supone una avería en el material eléctrico utilizado. y se representa así:
 
@@ -482,6 +484,15 @@ VIDEO
 
 CONCLUSIONES
 
+- La notación científica es una herramienta matemática, cuya función cosiste en reducir de forma simple un número demasiado grande ya sea para escribir o para leer, las principales aplicaciones se dan en las ramas de las ciencias de la física, química, electrónica, puesto que, estas ciencias son las que usan unidades exactas de cantidades exactas, principalmente se usa para los decimales, para la facilitación de los cálculos, por ejemplo, dentro de electrónica esto nos sirve para poder desarrollar los cálculos de amperaje, voltaje y resistencia.
+
+- La notación de ingeniería, no se diferencia en mucho de la notación científica, cuya función consiste en reducir una notación científica con múltiplos de tres, el objetivo de esto es agrupar en cierto grupo ciertas cantidades y así poder usar una terminología adecuada para el momento del desarrollo de conversiones, para el correcto desarrollo del sistema.
+
+- El calculo del voltaje, corriente y resistencia es algo básico dentro de la electrónica, puesto que estos son elementos y componentes básicos dentro de un circuito, tanto para su elaboración como para su comprensión, como estos tienen relación directa con la electricidad, se puede usar la ley de ohm para facilitar la comprensión del calculo de la resistencia, corriente y voltaje.
+
+- Un circuito es un sistema formado por componentes eléctricos, para su correcto desarrollo, para evitar problemas y mal gasto de recursos se debe realizar un esquema, y realizar todos los cálculos previos a la elaboración del circuito, así como la medición y comprensión de los componentes como son: fuente de voltaje, fuente de corriente, resistores, tierra, interruptores, etc.
+
+- La medición de la resistencia, corriente y voltaje de un circuito eléctrico, es necesario, para la comprobación del buen funcionamiento y de que todo marche correctamente en el circuito eléctrico. La medición para cada unidad es distinta, incluso la medición para cada circuito puede ser distinta, por ejemplo, para medir el voltaje de un circuito con 6 resistencias, se necesita medir en cada una de las resistencias, colocando en paralelo en las resistencias, para medir el cambio de voltaje a través de las resistencias, conectando la terminal negativa al lado negativo del circuito y la terminal positiva al lado positivo, de ahí determinar el voltaje del circuito.
 
 
 BIBLIOGRAFÍA
