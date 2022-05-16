@@ -246,11 +246,54 @@ MEDICIÓN DE CORRIENTE
 
 MEDICIÓN DE VOLTAJE
 
-![image](https://user-images.githubusercontent.com/105565683/168691380-8d2050b4-be19-4c41-838d-23165882eb8f.png)
+![image](https://user-images.githubusercontent.com/105565683/168691619-ab093b82-f8f7-4f8a-b6d9-47c3fc516f69.png)
 
 MEDICIÓN DE RESISTENCIA
 
+![image](https://user-images.githubusercontent.com/105565683/168691640-2f175bd8-2966-4902-9411-f8f6f15fcdf1.png)
 
+MULTÍMETRO DIGITAL
+
+Un multímetro digital es un instrumento electrónico que combina medidores para efectuar la medición de voltaje, corriente y resistencia. Los multímetros digitales son el tipo de instrumento de medición electrónico más utilizado.
+
+FUNCIONES DEL MULTÍMETRO DIGITAL
+
+Las funciones básicas encontradas en la mayoría de los multímetros digitales incluyen lo siguiente:
+
+- Ohm
+- Voltaje y corriente directos
+- Voltaje y corriente alternos
+
+LECTURA DE UN MULTÍMETRO DIGITAL
+
+PANTALLAS: Las pantallas LCD y LED de un multímetro digital vienen en formato de 7 segmentos. Cada dígito que aparece en pantalla se compone de siete segmentos distintos, cada uno de los diez dígitos decimales se forma por la activación de los segmentos apropiados. Además de los siete segmentos, también aparece un punto decimal.
+
+![image](https://user-images.githubusercontent.com/105565683/168691797-055272cc-cbdf-44d7-821c-9fb912e2ea52.png)
+
+RESOLUCIÓN: La resolución de un multímetro digital es el incremento más pequeño de una cantidad que el medidor puede medir.
+
+![image](https://user-images.githubusercontent.com/105565683/168691869-369d8165-d8a8-4a72-9f4e-8faaca361164.png)
+
+MULTÍMETRO ANALÓGICO 
+
+Es un instrumento especial para laboratorios, de campo especializado, muy útil y variable. Es capaz de medir voltajes en CA y CD, corriente, ganancia de transistor, caída de voltaje de diodos, resistencia, capacitancia e impedancia. Mediante el principio del galvanómetro y su funcionamiento, cuenta con una aguja que se mueve sobre una escala.
+
+![image](https://user-images.githubusercontent.com/105565683/168691900-a82d6ff6-1f97-4cea-b41e-f68cdafdb059.png)
+
+LECTURA DE UN MULTÍMETRO ANALÓGICO  
+
+ESACALA DE OHM: Los ohm se leen en la escala superior del medidor. Esta escala no es lineal, es decir, los valores representados por cada división (grande o pequeña) varían conforme se recorre la escala. Para leer el valor real en ohm, multiplique el número señalado en la escala por la manecilla por el factor seleccionado con el interruptor. 
+
+LAS ESCALAS AC-DC Y DC mA: Las escalas segunda, tercera y cuarta de arriba hacia abajo, marca-
+das “AC” y “DC”, se utilizan junto con las funciones DC VOLTS y AC VOLTS. La escala superior ac-dc termina en la marca de 300 y se usa con ajustes de intervalo, tales como 0.3, 3 y 300.
+
+EJEMPLO
+
+![image](https://user-images.githubusercontent.com/105565683/168691996-a8e3940f-67a8-407c-9cdc-5fa26eacd0a0.png)
+
+- El interruptor se sitúa en la función DC VOLTS y en el intervalo de 60 V.
+- El interruptor se sitúa en la función DC mA y en el intervalo de 12 mA.
+- El interruptor se sitúa en la función OHMS y en el intervalo 1 K.
 
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
