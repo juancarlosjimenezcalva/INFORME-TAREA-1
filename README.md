@@ -480,7 +480,7 @@ Los voltímetros se colocan en paralelo en R1, R2, R3, R4, R5 y R6, para medir e
 
 VIDEO
 
-
+https://youtu.be/MMpdV7cqLlU
 
 CONCLUSIONES
 
