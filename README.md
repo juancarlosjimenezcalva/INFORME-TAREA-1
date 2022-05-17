@@ -502,6 +502,8 @@ https://acmax.mx/que-es-una-fuente-de-corriente
 
 Demaquinasyherramientas.com. (4 de febrero de 2011). demaquinasyherramientas. Obtenido de demaquinasyherramientas:       https://www.demaquinasyherramientas.com/herramientas-de-medicion/multimetro
 
+Floyd, T. L. (2007). Principios de circuitos eléctricos . Monterrey: Pearson Educación.
+
 Gouveia, R. (18 de febrero de 2022). todamateria. Obtenido de todamateria: 
 https://www.todamateria.com/ley-de-ohm/
 
